@@ -1,0 +1,6 @@
+{
+  "appId": "id.hdp.digitalpreneur",
+  "appName": "HDP Digitalpreneur",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
